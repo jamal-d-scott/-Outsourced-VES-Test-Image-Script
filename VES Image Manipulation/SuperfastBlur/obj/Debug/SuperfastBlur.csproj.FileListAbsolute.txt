@@ -1,0 +1,5 @@
+C:\Users\scottj\Desktop\superfastblur-master\SuperfastBlur\bin\Debug\SuperfastBlur.dll
+C:\Users\scottj\Desktop\superfastblur-master\SuperfastBlur\bin\Debug\SuperfastBlur.pdb
+C:\Users\scottj\Desktop\superfastblur-master\SuperfastBlur\obj\Debug\SuperfastBlur.csprojResolveAssemblyReference.cache
+C:\Users\scottj\Desktop\superfastblur-master\SuperfastBlur\obj\Debug\SuperfastBlur.dll
+C:\Users\scottj\Desktop\superfastblur-master\SuperfastBlur\obj\Debug\SuperfastBlur.pdb

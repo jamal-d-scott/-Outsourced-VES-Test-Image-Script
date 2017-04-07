@@ -1,0 +1,8 @@
+c:\users\scottj\documents\visual studio 2013\Projects\VES Image Manipulation\VES Image Manipulation\bin\Debug\VES Image Manipulation.exe.config
+c:\users\scottj\documents\visual studio 2013\Projects\VES Image Manipulation\VES Image Manipulation\bin\Debug\VES Image Manipulation.exe
+c:\users\scottj\documents\visual studio 2013\Projects\VES Image Manipulation\VES Image Manipulation\bin\Debug\VES Image Manipulation.pdb
+c:\users\scottj\documents\visual studio 2013\Projects\VES Image Manipulation\VES Image Manipulation\obj\Debug\VES Image Manipulation.csprojResolveAssemblyReference.cache
+c:\users\scottj\documents\visual studio 2013\Projects\VES Image Manipulation\VES Image Manipulation\obj\Debug\VES Image Manipulation.exe
+c:\users\scottj\documents\visual studio 2013\Projects\VES Image Manipulation\VES Image Manipulation\obj\Debug\VES Image Manipulation.pdb
+C:\Users\scottj\Documents\Visual Studio 2013\Projects\VES Image Manipulation\VES Image Manipulation\bin\Debug\SuperfastBlur.dll
+C:\Users\scottj\Documents\Visual Studio 2013\Projects\VES Image Manipulation\VES Image Manipulation\bin\Debug\SuperfastBlur.pdb
